@@ -1,2 +1,3 @@
 # hello-world
-Second go-round of a first
+
+I see life as an opportunity to make a vision manifest. 
